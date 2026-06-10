@@ -1,3 +1,4 @@
+/* Styles the body of the application with a dark background*/
 body {
   margin: 0;
   font-family: Arial, sans-serif;
@@ -5,13 +6,14 @@ body {
   color: #00ffcc;
 }
 
+/* Centers and aligns the clock in the middle of the screen */
 div {
   height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
 }
-
+/* Styles the clock display box */
 p {
   font-size: 3rem;
   background-color: #2d2d44;
